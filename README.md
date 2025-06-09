@@ -1,7 +1,5 @@
-### Hi!
+# Hi!
 
-I don't really know what to write here.
+I have this account so that I sometime soon can contribute to Exercism!
 
-I guess this _is_ filling the space...
-
----
+I code in HTML, CSS, JS and Python, and I am trying to learn a bit of Uiua.
