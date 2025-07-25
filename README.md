@@ -1,7 +1,3 @@
 # Hi!
 
-I am an Exercism user trying to help Exercism by contributing.
-
-On Exercism, my username is SneakyMallard.
-
-I am not any sort of developer, but I know some HTML, CSS, JavaScript, and Python.
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=quintuple-mallard)](https://github.com/anuraghazra/github-readme-stats)
